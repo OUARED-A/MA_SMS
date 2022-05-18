@@ -5,8 +5,6 @@ includes the Python scripts we developed for data exploration and analysis.
 
 ## Setup and run:
 
------------------------------------------------
-
 ### Requirements:
 
 -You may need to install Python 3.6 or higher with and matplotlib, also you can use Google Colab Notebooks (https://colab.research.google.com/)
@@ -19,8 +17,6 @@ includes the Python scripts we developed for data exploration and analysis.
 
 
 ### Installation and Run:
-
-------------------------------------------------
 
 1. Download script.zip file a zip from Github
 
