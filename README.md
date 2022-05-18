@@ -7,11 +7,11 @@ includes the _Python_ scripts we developed for data exploration and analysis.
 
 ### Requirements:
 
--You may need to install _Python 3.7_ or higher with and _matplotlib_, also you can use online solution like Google Colab Notebooks (https://colab.research.google.com/)
+-You may need to install _Python 3.7_ or higher with and _Matplotlib_, also you can use online solution like Google Colab Notebooks (https://colab.research.google.com/)
 
 *  Python 3.7: https://www.python.org/downloads/release/python-370/
 
-*  matplotlib: https://matplotlib.org/stable/users/installing/index.html
+*  Matplotlib: https://matplotlib.org/stable/users/installing/index.html
 
 *  Google Colab Notebooks: https://colab.research.google.com/
 
