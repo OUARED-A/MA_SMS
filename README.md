@@ -1,13 +1,13 @@
-About CORPUS exploration and analysis:
+# About CORPUS exploration and analysis:
 
 To allow independent replication and verification of our study, the accompanying online repository is publicly available,
 includes the Python scripts we developed for data exploration and analysis.
 
-Setup and run:
+## Setup and run:
 
 -----------------------------------------------
 
-Requirements:
+### Requirements:
 
 -You may need to install Python 3.6 or higher with and matplotlib, also you can use Google Colab Notebooks (https://colab.research.google.com/)
 
@@ -18,7 +18,7 @@ Requirements:
 -> Google Colab Notebooks: https://colab.research.google.com/
 
 
-Installation and Run:
+### Installation and Run:
 
 ------------------------------------------------
 
