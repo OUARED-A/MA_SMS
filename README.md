@@ -24,7 +24,7 @@ includes the _Python_ scripts we developed for data exploration and analysis.
 
 3. Customize the path of the CORPUS folder to read a CSV file (line of code 9 ->  ```diffdata = pd.read_csv('CORPUS-Final.csv')```)
 
-4. Run a python script to get all the resultats of vertical and orthogonal analysis.
+4. Run a python script to get all resultats of vertical and orthogonal analysis.
 
 5. All Results Plots are visualized in the Python execution environment and exported as a pdf file in the current folder. 
 
