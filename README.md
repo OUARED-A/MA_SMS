@@ -7,7 +7,7 @@ includes the Python scripts we developed for data exploration and analysis.
 
 ### Requirements:
 
--You may need to install Python 3.6 or higher with and matplotlib, also you can use Google Colab Notebooks (https://colab.research.google.com/)
+-You may need to install _Python 3.6_ or higher with and _matplotlib_, also you can use online solution like Google Colab Notebooks (https://colab.research.google.com/)
 
 *  Python 3.6: https://www.python.org/downloads/release/python-360/) 
 
