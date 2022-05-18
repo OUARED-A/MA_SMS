@@ -27,3 +27,5 @@ includes the Python scripts we developed for data exploration and analysis.
 4. Run a python script to get all the resultats of vertical and orthogonal analysis.
 
 5. All Results Plots are visualized in the Python execution environment and exported as a pdf file in the current folder. 
+
+![image](https://user-images.githubusercontent.com/42803883/169049820-12127f54-6995-42fd-8da3-936e9358514d.png)
