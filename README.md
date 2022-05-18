@@ -1,4 +1,4 @@
-# About CORPUS exploration and analysis:
+# About CORPUS Exploration and Analysis:
 
 To allow independent replication and verification of our study, the accompanying online repository is publicly available,
 includes the Python scripts we developed for data exploration and analysis.
