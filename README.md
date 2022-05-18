@@ -3,7 +3,7 @@
 To allow independent replication and verification of our study, the accompanying online repository is publicly available,
 includes the _Python_ scripts we developed for data exploration and analysis.
 
-## Setup and run:
+## Setup and Run:
 
 ### Requirements:
 
