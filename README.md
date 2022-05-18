@@ -28,4 +28,4 @@ includes the _Python_ scripts we developed for data exploration and analysis.
 
 5. All Results Plots are visualized in the Python execution environment and exported as a pdf file in the current folder. 
 
-![image](https://user-images.githubusercontent.com/42803883/169071564-4821a70b-03f5-410b-aabb-be87c32975d7.png)
+![image](https://user-images.githubusercontent.com/42803883/169172339-a9d15569-2827-486c-ab91-611ea6832925.png)
