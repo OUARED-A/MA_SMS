@@ -22,7 +22,7 @@ includes the _Python_ scripts we developed for data exploration and analysis.
 
 2. Create script folder anywhere on your PC and extract zip content to this folder
 
-3. Customize the path of the CORPUS folder to read a CSV file (line of code 9 ->  ```diffdata = pd.read_csv('CORPUS-Final.csv')```)
+3. Customize the path of the CORPUS folder to read a CSV file (line of code 9 ->  ```diff data = pd.read_csv('CORPUS-Final.csv')```)
 
 4. Run a python script to get all resultats of vertical and orthogonal analysis.
 
