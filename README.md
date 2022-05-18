@@ -18,7 +18,6 @@ Requirements:
 -> Google Colab Notebooks: https://colab.research.google.com/
 
 
-
 Installation and Run:
 
 ------------------------------------------------
