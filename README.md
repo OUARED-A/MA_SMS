@@ -45,7 +45,7 @@ includes the _Python_ scripts we developed for data exploration and analysis.
 ![image](https://user-images.githubusercontent.com/42803883/169172339-a9d15569-2827-486c-ab91-611ea6832925.png)
 
 ## Further improvements
-If you wish, you're welcome to participate in the Explain-Tun or to make suggestions !
+If you wish, you're welcome to participate in the project or to make suggestions !
 
 ## Authors Anonymous
 All artefacts are available as an anonymised Git repository
