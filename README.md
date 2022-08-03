@@ -1,4 +1,4 @@
-# Animation SLR /UTF-8 ©, ™, and ®
+# Animation SLR 2022
 ## Project Title:
 A Systematic Mapping Study of Model Animation for MDE
 ## Project Discription:
