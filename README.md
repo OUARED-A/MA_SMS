@@ -17,8 +17,6 @@ includes the _Python_ scripts we developed for data exploration and analysis.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 
-[![Open In Colab]
-
 -You may need to install _Python 3.3_ or higher with and _Matplotlib_, also you can use online solution like Google Colab Notebooks (https://colab.research.google.com/)
 
 *  Python 3.3: https://www.python.org/downloads/release/python-330/
