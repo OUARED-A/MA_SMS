@@ -12,6 +12,7 @@ includes the _Python_ scripts we developed for data exploration and analysis.
 
 ### Requirements:
 
+[![PyPI](https://img.shields.io/pypi/pyversions/pylearning.svg)]()
 -You may need to install _Python 3.7_ or higher with and _Matplotlib_, also you can use online solution like Google Colab Notebooks (https://colab.research.google.com/)
 
 *  Python 3.7: https://www.python.org/downloads/release/python-370/
