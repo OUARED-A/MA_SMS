@@ -1,8 +1,7 @@
 # A Systematic Mapping Study of Model Animation for MDE:
 We propose a Systematic Mapping Study (SMS) to help understand what challenges, technical difficulties and current implementation techniques have been used for animation. Our SMS presents serving a guide for practitioners and researchers for understanding the approaches, the languages and tools used for animation. 
 
-![image](https://user-images.githubusercontent.com/42803883/182677763-64f4791a-5de8-4f6b-8c90-ed1fa787b826.png)
-
+![image](https://user-images.githubusercontent.com/42803883/182678240-f4cd86aa-648f-4680-be8b-485ddbae2d7c.png)
 
 # About CORPUS Exploration and Analysis:
 
