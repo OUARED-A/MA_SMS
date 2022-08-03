@@ -1,4 +1,4 @@
-# Animation SLR
+# Animation SLR /UTF-8 ©, ™, and ®
 ## Project Title:
 A Systematic Mapping Study of Model Animation for MDE
 ## Project Discription:
