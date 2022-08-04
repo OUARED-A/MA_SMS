@@ -4,7 +4,7 @@ A Systematic Mapping Study of Model Animation for MDE
 ## Project Discription:
 We propose a Systematic Mapping Study (SMS) to help understand what challenges, technical difficulties and current implementation techniques have been used for animation of model transformation in Model-driven engineering (MDE). Our SMS presents serving a guide for practitioners and researchers for understanding the approaches, the languages and tools used for animation. 
 
-![image](https://user-images.githubusercontent.com/42803883/182702495-908634fa-f4d8-4042-9760-901f747b8036.png)
+![image](https://user-images.githubusercontent.com/42803883/182735990-c316e92b-8109-40eb-8fd7-449e12f24fdc.png)
 
 # About CORPUS Exploration and Analysis:
 
