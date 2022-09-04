@@ -1,7 +1,7 @@
 # Animation SLR 2022
 ## Project Title:
 A Systematic Mapping Study of Model Animation for MDE
-## Project Discription:
+## Project Description:
 We propose a Systematic Mapping Study (SMS) to help understand what challenges, technical difficulties and current implementation techniques have been used for animation of model transformation in Model-driven engineering (MDE). Our SMS presents serving a guide for practitioners and researchers for understanding the approaches, the languages and tools used for animation. 
 
 ![image](https://user-images.githubusercontent.com/42803883/182735990-c316e92b-8109-40eb-8fd7-449e12f24fdc.png)
